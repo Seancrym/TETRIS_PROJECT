@@ -1,0 +1,5 @@
+W, H = 10, 22
+TILE = 45
+GAME_RES = W * TILE, H * TILE
+FPS = 60
+RES = 767, 1023
