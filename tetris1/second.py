@@ -11,8 +11,8 @@ def playing():
     game_sc = pygame.Surface(GAME_RES)
     clock = pygame.time.Clock()
     game_over = 0
-    '''pygame.mixer.music.load('pics_and_song/tetris_song.mp3')
-    pygame.mixer.music.play()'''
+    pygame.mixer.music.load('pics_and_song/tetris_song.mp3')
+    pygame.mixer.music.play()
 
     seven_color = [(230, 44, 45), (232, 113, 55),
                    (254, 199, 70), (71, 223, 44),
